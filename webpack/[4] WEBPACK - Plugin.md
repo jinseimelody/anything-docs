@@ -46,4 +46,6 @@ module.exports = {
 
 Trong ví dụ trên `ProgressPlugin` được cấu hình để theo dõi quá trình build của webpack, và `HtmlWebpackPlugin` tạo file html bên trong đó include `my-first-webpack.bundle.js` thông qua **script** tag.
 
+**IV. Node API**
 
+[tham khảo](https://webpack.js.org/concepts/plugins/#node-api)
