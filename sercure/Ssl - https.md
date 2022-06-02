@@ -7,11 +7,6 @@ Mã hóa là cần thiết để thông tin trao đổi trên internet được 
    -  **private key** dùng cho giải mã
 3. `Hash Functions`: [tham khảo](https://codelearn.io/sharing/hash-la-gi-va-hash-dung-de-lam-gi) (MD5, SHA-256)
 
-`Note`:
-
-    - Việc tạo ra `public key` và `private key` là ví dụ thực tế của mã hóa bất đối xứng.
-    - Dữ liệu được mã hóa bằng `public key` chỉ có thể giải mã bằng `private key` và ngược lại.
-
 **I. Ssl protocol and ssl certificate**
 
 1. `SSL, TSL protocol`: giao thức để tăng tính bảo mật cho các giao tiếp qua internet (P/s: hiện tại phần lớn đã chuyển đổi sang TSL).
