@@ -99,7 +99,7 @@ Cài đặt `openssl`
 ## Install the CA Cert as a trusted root CA
    ### On windows  
 ```
-   Import-Certificate -FilePath "C:\ca.pem" -CertStoreLocation Cert:\LocalMachine\Root
+   Import-Certificate -FilePath "C:\Certificate\ca.pem" -CertStoreLocation Cert:\LocalMachine\Root
 ```
 
 Openssl docs
