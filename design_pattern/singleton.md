@@ -1,0 +1,2 @@
+# Singleton
+A singleton represents a single instance of an object. Only one can be created, no matter how many times the object is instantiated. If there’s already an instance, the singleton will create a new one.
