@@ -1,2 +1,2 @@
 # Singleton
-A singleton represents a single instance of an object. Only one can be created, no matter how many times the object is instantiated. If there’s already an instance, the singleton will create a new one.
+Singleton có nghĩa là chỉ có 1 instance duy nhất cho 1 object. Không phụ thuộc vào việc bạn tạo mới object đó bao nhiêu lần. [tham khảo](https://viblo.asia/p/tim-hieu-singleton-pattern-MVpeKPAOkKd)
