@@ -64,7 +64,8 @@ npx prisma generate
     return result
     })
     ```
-3. Sử dụng raw database access `optional` (thường sử dụng để thực thi các câu query phức tạp)
+3. CURD [cheatsheet](https://www.prisma.io/docs/concepts/components/prisma-client/crud)
+4. Sử dụng raw database access `optional` (thường sử dụng để thực thi các câu query phức tạp)
 Có 2 cách chính để gửi query tới DB
 
     - `$queryRaw` để thực thi các câu select.
